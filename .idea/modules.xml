@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project.iml" filepath="$PROJECT_DIR$/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_admin/blue_admin.iml" filepath="$PROJECT_DIR$/blue_parent/blue_admin/blue_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_dao/blue_dao.iml" filepath="$PROJECT_DIR$/blue_parent/blue_dao/blue_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_front/blue_front.iml" filepath="$PROJECT_DIR$/blue_parent/blue_front/blue_front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_parent.iml" filepath="$PROJECT_DIR$/blue_parent/blue_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_pojo/blue_pojo.iml" filepath="$PROJECT_DIR$/blue_parent/blue_pojo/blue_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" filepath="$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" />
+    </modules>
+  </component>
+</project>
