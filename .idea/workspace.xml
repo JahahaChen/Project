@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6ffe7f1-86c7-4839-8250-7752921f6fba" name="Default Changelist" comment="">
+    <list default="true" id="b6ffe7f1-86c7-4839-8250-7752921f6fba" name="Default Changelist" comment="IDEA整合代码测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/oop12.java" beforeDir="false" />
     </list>
@@ -133,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573542297581" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573542403382" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -168,7 +169,7 @@
       <workItem from="1573460318655" duration="1841000" />
       <workItem from="1573466306911" duration="86000" />
       <workItem from="1573466416685" duration="4540000" />
-      <workItem from="1573539427830" duration="2762000" />
+      <workItem from="1573539427830" duration="3018000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合代码测试">
       <created>1573541111544</created>
@@ -188,7 +189,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10535000" />
+    <option name="totallyTimeSpent" value="10791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
