@@ -1,0 +1,90 @@
+package com.rupeng;
+
+import java.util.Date;
+
+/**
+ * @author: chenjiaheng
+ * @date ：2019-11-13 10:56
+ * @description: AdminUser
+ * @modified By：
+ **/
+public class AdminUser {
+    private long id;
+    private String name;
+    private String phoneNum;
+    private String passwordHash;
+    private String email;
+    private boolean isDeleted;
+    private Date createDateTime;
+
+    public long getId()
+    {
+        return id;
+    }
+
+    public void setId(long id)
+    {
+        this.id = id;
+    }
+
+    public String getPhoneNum()
+    {
+        return phoneNum;
+    }
+
+    public String getName()
+    {
+        return name;
+    }
+
+    public void setName(String name)
+    {
+        this.name = name;
+    }
+
+    public void setPhoneNum(String phoneNum)
+    {
+        this.phoneNum = phoneNum;
+    }
+
+    public String getPasswordHash()
+    {
+        return passwordHash;
+    }
+
+    public void setPasswordHash(String passwordHash)
+    {
+        this.passwordHash = passwordHash;
+    }
+
+    public String getEmail()
+    {
+        return email;
+    }
+
+    public void setEmail(String email)
+    {
+        this.email = email;
+    }
+
+
+    public boolean isDeleted()
+    {
+        return isDeleted;
+    }
+
+    public void setDeleted(boolean isDeleted)
+    {
+        this.isDeleted = isDeleted;
+    }
+
+    public Date getCreateDateTime()
+    {
+        return createDateTime;
+    }
+
+    public void setCreateDateTime(Date createDateTime)
+    {
+        this.createDateTime = createDateTime;
+    }
+}
