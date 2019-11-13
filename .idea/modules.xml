@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_parent.iml" filepath="$PROJECT_DIR$/blue_parent/blue_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_pojo/blue_pojo.iml" filepath="$PROJECT_DIR$/blue_parent/blue_pojo/blue_pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" filepath="$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenDemo1/mavenDemo1.iml" filepath="$PROJECT_DIR$/mavenDemo1/mavenDemo1.iml" />
     </modules>
   </component>
 </project>
