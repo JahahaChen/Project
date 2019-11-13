@@ -32,6 +32,8 @@ public class JdbcUtils {
            DB_URL=prop.getProperty("url");
            DB_USER_NAME=prop.getProperty("username");
            DB_PSSSWORD=prop.getProperty("password");
+           //加载驱动
+           Class.forName(DB_DRIVE_NAME);
        }catch (Exception e){
             System.out.println("JdbcUtils初始化异常:"+e);
             throw new RuntimeException();
@@ -139,7 +141,7 @@ public class JdbcUtils {
      * @param parameters
      * @return
      */
-   public static  int execupteUpdate(Connection connection ,String sql,Object... parameters)
+   public static  int executeUpdate(Connection connection ,String sql,Object... parameters)
    {
 
         try (PreparedStatement ps = connection.prepareStatement(sql))
