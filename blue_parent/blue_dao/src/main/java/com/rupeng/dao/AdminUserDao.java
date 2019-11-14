@@ -95,7 +95,7 @@ public class AdminUserDao
        ResultSet resultSet   = null;
        try
        {
-         resultSet = JdbcUtils.executeQuery("select * from T_AdminUsers  where Id=?",id);
+          resultSet = JdbcUtils.executeQuery("select * from T_AdminUsers  where IsDeleted = 0 and Id=?",id);
           if (resultSet.next()){
                return  toAdminUser(resultSet);
           }else {
@@ -119,7 +119,7 @@ public class AdminUserDao
         ResultSet resultSet = null;
         try
         {
-           resultSet = JdbcUtils.executeQuery("seelct * from T_AdminUsers where IsDeleted = 0 and PhoneNum = ?",phoneNum);
+            resultSet = JdbcUtils.executeQuery("select * from T_AdminUsers where IsDeleted = 0 and PhoneNum = ?  limit  1",phoneNum);
             if (resultSet.next()){
               return toAdminUser(resultSet);
             }
@@ -162,7 +162,7 @@ public class AdminUserDao
      */
     public void markDeleted(long adminUserId)
     {
-          JdbcUtils.executeUpdate("update T_AadminUsers set IsDeleted= 1 where id=?",adminUserId);
+          JdbcUtils.executeUpdate("update T_AdminUsers set IsDeleted= 1 where id=?",adminUserId);
     }
 
 

@@ -16,7 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="blue_admin" target="1.7" />
-      <module name="blue_dao" target="1.5" />
+      <module name="blue_dao" target="1.8" />
       <module name="blue_front" target="1.7" />
       <module name="blue_parent" target="1.5" />
       <module name="blue_pojo" target="1.5" />

@@ -28,10 +28,10 @@ public class JdbcUtils {
             prop.load(inputStream); //从流中获取
             inputStream.close();
 
-           DB_DRIVE_NAME = prop.getProperty("driveName");
-           DB_URL=prop.getProperty("url");
-           DB_USER_NAME=prop.getProperty("username");
-           DB_PSSSWORD=prop.getProperty("password");
+           DB_DRIVE_NAME = prop.getProperty("dbdriver");
+           DB_URL=prop.getProperty("dburl");
+           DB_USER_NAME=prop.getProperty("dbusername");
+           DB_PSSSWORD=prop.getProperty("dbpassword");
            //加载驱动
            Class.forName(DB_DRIVE_NAME);
        }catch (Exception e){
@@ -70,10 +70,11 @@ public class JdbcUtils {
      * @param parameters
      * @return
      */
-    public  static  long executeInsertAutoInc(String sql ,Object... parameters){
+    public  static  long executeInsertAutoInc(String sql ,Object... parameters)
+    {
         try (
                 Connection connection = DriverManager.getConnection(DB_URL,DB_USER_NAME,DB_PSSSWORD);
-                PreparedStatement ps  = connection.prepareStatement(sql);
+                PreparedStatement ps  = connection.prepareStatement(sql,Statement.RETURN_GENERATED_KEYS);
              )
         {
 
