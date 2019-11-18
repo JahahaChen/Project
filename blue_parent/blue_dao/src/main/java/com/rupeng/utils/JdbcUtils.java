@@ -1,6 +1,9 @@
 package com.rupeng.utils;
 
 
+import com.mysql.cj.jdbc.exceptions.ConnectionFeatureNotAvailableException;
+import sun.util.resources.th.CalendarData_th;
+
 import javax.sql.rowset.CachedRowSet;
 import javax.sql.rowset.RowSetFactory;
 import javax.sql.rowset.RowSetProvider;
@@ -196,6 +199,23 @@ public class JdbcUtils {
              }
         }catch (SQLException ex){
             throw new RuntimeException(ex);
+        }
+    }
+
+
+    /**
+     * 批量执行PreparedStatement.addBatch
+     * @param sql
+     */
+    public static  void addBatch(String sql)
+    {
+        try(Connection connection = DriverManager.getConnection(DB_URL,DB_USER_NAME,DB_PSSSWORD);
+            PreparedStatement ps  = connection.prepareStatement(sql))
+        {
+              ps.addBatch();
+        }
+        catch (SQLException ex){
+               throw  new RuntimeException(ex);
         }
     }
 

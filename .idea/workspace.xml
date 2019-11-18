@@ -2,15 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6ffe7f1-86c7-4839-8250-7752921f6fba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mavenDemo2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mavenDemo2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/TestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo2/mavenDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo2/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blue_parent/blue_dao/blue_dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_dao/blue_dao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blue_parent/blue_dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_dao/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blue_parent/blue_dao/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/main/resources/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blue_parent/blue_pojo/blue_pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blue_parent/blue_pojo/blue_pojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/target/classes/com/rupeng/LogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/target/classes/com/rupeng/LogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/target/classes/log4j2.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavenDemo1/target/" />
@@ -20,6 +35,7 @@
     <ignored path="$PROJECT_DIR$/blue_parent/blue_service/target/" />
     <ignored path="$PROJECT_DIR$/blue_parent/blue_front/target/" />
     <ignored path="$PROJECT_DIR$/blue_parent/blue_admin/target/" />
+    <ignored path="$PROJECT_DIR$/mavenDemo2/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="113" column="22" lean-forward="true" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
+            <state relative-caret-position="294">
+              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,10 +71,71 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="76" column="103" selection-start-line="76" selection-start-column="103" selection-end-line="76" selection-end-column="103" />
+            <state relative-caret-position="512">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="151" selection-start-line="151" selection-end-line="151" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -69,6 +146,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -85,6 +163,10 @@
       <find>email</find>
       <find>addAdminuser</find>
       <find>driveName</find>
+      <find>prepareStatement</find>
+      <find>addBatch</find>
+      <find>remove</find>
+      <find>newdataList</find>
     </findStrings>
     <replaceStrings>
       <replace>DB_PSSSWORD</replace>
@@ -128,9 +210,23 @@
         <option value="$PROJECT_DIR$/blue_parent/pom.xml" />
         <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/blue_parent/blue_dao/pom.xml" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java" />
         <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListTest.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Person.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_front/Test.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java" />
+        <option value="$PROJECT_DIR$/mavenDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/TestServlet.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTestTest.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3Test.java" />
+        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserDaoTest.java" />
       </list>
     </option>
   </component>
@@ -169,7 +265,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,169 +272,20 @@
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rupeng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rupeng" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rupeng" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="blue_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.13" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.13" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.13.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.13" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.13.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.13" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.13.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="cj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.13" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.13.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="cj" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.13" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.13.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="cj" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573700596798" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../资料/java/05JavaWeb项目/2019javaweb项目配套资料/JavaWeb项目课件/课堂项目代码/blue_parent" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574079607090" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="D:/Git/sto-shb" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -348,13 +294,20 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.rupeng.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Personal\JavaDoc\Project\blue_parent\blue_front" />
+      <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Personal\JavaDoc\Project\blue_parent\blue_dao\src\main\java\com\rupeng\utils" />
       <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\resources" />
       <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\Resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -369,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdminUserTest">
+  <component name="RunManager" selected="JUnit.Demo3Test.add">
     <configuration name="AdminUserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rupeng.test.AdminUserTest" />
       <module name="blue_dao" />
@@ -383,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rupeng.LogTest" />
+    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.HashCodeTest" />
       <module name="mavenDemo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rupeng.pojo.*" />
+          <option name="PATTERN" value="com.rupeng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,10 +349,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.ListTest" />
+      <module name="mavenDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.Test" />
+      <module name="mavenDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3Test.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blue_dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rupeng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.Demo3Test" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Demo3Test.add" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HashCodeTest" />
+        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.AdminUserTest" />
-        <item itemvalue="Application.LogTest" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +415,8 @@
       <workItem from="1573460318655" duration="1841000" />
       <workItem from="1573466306911" duration="86000" />
       <workItem from="1573466416685" duration="4540000" />
-      <workItem from="1573539427830" duration="42355000" />
+      <workItem from="1573539427830" duration="54252000" />
+      <workItem from="1574038807727" duration="12105000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合代码测试">
       <created>1573541111544</created>
@@ -475,11 +474,33 @@
       <option name="project" value="LOCAL" />
       <updated>1573639372694</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[add]调试通过AdminUserDao">
+      <created>1573700554803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573700554803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[add]调试通过AdminUserDao">
+      <created>1573700608085</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573700608085</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Demo3Test_add - 2019.11.18 at 19h 50m 25s.xml">
+      <configuration name="Demo3Test.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo3Test_add - 2019.11.18 at 19h 52m 48s.xml">
+      <configuration name="Demo3Test.add" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50128000" />
+    <option name="totallyTimeSpent" value="74130000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -492,30 +513,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Web" sideWeight="0.50082916" side_tool="true" weight="0.18017058" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.18176973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" weight="0.32925472" />
+      <window_info id="Web" order="7" sideWeight="0.50082916" side_tool="true" weight="0.18017058" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45717463" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35595107" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3548387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.32925472" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.25695217" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.17130144" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4968017" weight="0.3448276" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.39933258" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.2224694" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.37708566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -588,22 +608,43 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[add]add log4j" />
     <MESSAGE value="IDEA整合代码测试" />
     <MESSAGE value="JdbcUtils complete" />
     <MESSAGE value="Admin User Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin User Test" />
+    <MESSAGE value="[add]调试通过AdminUserDao" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]调试通过AdminUserDao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java</url>
-          <line>73</line>
+          <line>76</line>
           <properties />
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -630,37 +671,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/logger/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/logger/Test.java" />
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/Test.java" />
     <entry file="file://$PROJECT_DIR$/mavenDemo1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/LogTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,32 +778,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/AdminUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-          <folding>
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1042#1043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/config.properties" />
     <entry file="jar://D:/maven/my_maven_local_repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/AbandonedConnectionCleanupThread.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -830,30 +821,224 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/PreparedStatement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1095">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="80">
+          <caret line="486" column="42" selection-start-line="486" selection-start-column="42" selection-end-line="486" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/LogTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="352" column="19" selection-start-line="352" selection-start-column="13" selection-end-line="352" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="188" column="7" lean-forward="true" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1282#1283#0" expanded="true" />
+            <element signature="e#1325#1326#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1424#1425#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/AdminUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+          <folding>
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_front/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/TestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="76" column="103" selection-start-line="76" selection-start-column="103" selection-end-line="76" selection-end-column="103" />
+        <state relative-caret-position="512">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="113" column="22" lean-forward="true" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
+        <state relative-caret-position="294">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -911,12 +1096,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>blue_dao</last-edited>
+          <last-edited>Web|mavenDemo2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

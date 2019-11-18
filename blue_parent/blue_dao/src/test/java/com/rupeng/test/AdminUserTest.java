@@ -3,6 +3,9 @@ package com.rupeng.test;
 import com.rupeng.AdminUser;
 import com.rupeng.dao.AdminUserDao;
 import com.rupeng.utils.JdbcUtils;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
 
 import java.io.InputStream;
 import java.util.Properties;
@@ -26,9 +29,13 @@ public class AdminUserTest
 
         //getAdminUserByPhoneNum("18621816254");
 
-        deleteAdminUser(22);
-        getAdminUserById(22);
+//        deleteAdminUser(22);
+//        getAdminUserById(22);
+
+
+
     }
+
 
 
     /**
@@ -127,5 +134,21 @@ public class AdminUserTest
     {
         AdminUserDao dao =new AdminUserDao();
         dao.markDeleted(id);
+    }
+
+    @Before
+    public void setUp() throws Exception
+    {
+    }
+
+    @After
+    public void tearDown() throws Exception
+    {
+    }
+
+    @Test
+    public void add1()
+    {
+
     }
 }

@@ -12,6 +12,7 @@
         <module name="blue_pojo" />
         <module name="blue_service" />
         <module name="mavenDemo1" />
+        <module name="mavenDemo2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +23,7 @@
       <module name="blue_pojo" target="1.5" />
       <module name="blue_service" target="1.5" />
       <module name="mavenDemo1" target="1.5" />
+      <module name="mavenDemo2" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
