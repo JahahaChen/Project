@@ -88,4 +88,11 @@ public class AdminUser
     {
         this.createDateTime = createDateTime;
     }
+
+
+    @Override
+    public int hashCode()
+    {
+        return  333;
+    }
 }

@@ -12,6 +12,34 @@ public class HashCodeTest
 {
     public static void main(String[] args)
     {
+
+//        Object object =new Object();
+//        System.out.println(object.hashCode());
+//
+//
+//        String string = "abc";
+//        System.out.println(string.hashCode());
+//
+//        AdminUser adminUser  = new AdminUser();
+//        System.out.println(adminUser.hashCode());
+
+
+//        int h = 0;
+//
+//        char [] c = new char[3];
+//        c[0]='a';
+//        c[1]='b';
+//        c[2]='c';
+//
+//        for (int i=0;i<c.length;i++)
+//        {
+//            h = 31 * h + c[i];
+//        }
+//        System.out.println(h);
+
+
+
+
         HashMap map1 = new HashMap();
         map1.put("河北","石家庄");
         map1.put("河南","郑州");

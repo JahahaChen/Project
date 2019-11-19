@@ -1,0 +1,846 @@
+一、java基础
+   1、java标识符 
+   
+   
+   2、java修饰符 
+   
+   
+   3、java关键字
+      1）、final   不可更改的，初始化后，就不能再被更改
+	      
+      extend  
+   
+   
+   4、Java的数据类型
+      原始类型(primitive)  char numberic  boolean
+	     numeric : byte short int long float double
+	  引用类(reference)  class interface array
+	  
+	  2、java没有unsigned类型
+	    0xFFFF   0xFF  谁大？
+		
+		
+		
+		
+二、Java集合 
+    1、ArrayList 
+	   hashCode 
+	   
+	   iterator
+	   
+	   	spliterator()
+		stream()
+		
+		
+		
+三、JDBC 
+    实现一个三层的CRUD操作
+	
+	
+	
+	
+	
+	
+	
+	
+四、多态：
+    1、父类类型的标签可以贴到子类类型的对象上2
+	2、能够调用
+	
+	
+	3、子类中可以定义和父类中完全一样的方法  override
+	
+	
+	
+	4、父类类型的变量可以指向子类类型的对象
+	   能够调用什么方法取决于标签(变量的类型)。
+	   调用哪个实现方法取决于对象的类型
+	   
+	   
+	   super.  关键字标识 调用父类的speak方法。 this 调用本类的
+	   
+	   父类类型的变量，赋值给子类类型的变量的时候需要做显示类型转换
+	   
+	   instanceof  运算符  双元运算符，左边是变量  右边是对象  判断左边的变量是不是指向右边类型的对象
+	   
+	   
+	 5、final  关键字用法
+	   可以修饰局部变量、方法、类
+	   
+	   1）、final 修饰的局部变量 只能赋值一次
+	   2）、final 修饰的方法，子类不能override
+	   3）、final 修饰的类，不能有子类
+	   
+	   
+	 6、抽象类
+	    被abstract修饰的类，抽象类无法实例化 只能实例化抽象类的“非抽象子类”
+		
+		抽象方法必须是在抽象类中 
+		抽象类中可以有抽象类，也可以没有抽象类
+		
+		思考抽象类存在的意义
+		抽象类和接口的区别
+		
+		类如果继承了抽象类，则该类必须实现抽象类中的抽象方法
+		
+		
+		
+	
+	7、instanceof 关键字
+	    严格来说就是java中的一个双目运算符，用来测试一个对象是否为一个类的实例
+		
+		
+	8、Object中的hashCode用于返回哈希值，主要是给以后讲的集合类使用的
+	
+	   hashCode的要求：同一个对象只要对象状态没有改变，多次调用应该
+	   返回相同的hashCode，但是不要
+	   
+	   
+	9、String 判断用 equals  int 判断相等用 ==
+	
+	10、toString()
+	    
+五、java基础：
+		
+	11、static
+	  想定义一些不和具体对象关联，不需要new就调用的方法(不访问成员变量的方法就可以定义成static方法)
+	  1）、在静态方法中不可以调用非静态方法，但是在非静态方法中可以调用静态方法
+	  
+	  
+	  
+	  
+	12、java中没有常量这么一说的
+	  通过 public static final int age = 00;
+	  
+	  
+	13、静态代码块和枚举
+	  
+	  定义在类中的：
+		public class Person {
+			static {
+				System.out.println("这里是静态代码块");
+			}
+		}
+		
+		 静态代码块只在类第一次被使用的时候执行一次，在构造函数执行之前执行
+		 一般用来对类进行初始化的时候使用，放到静态代码块中
+	
+	
+	14、String 和其他数据类型的转换
+	    int i=9;
+        String s1 = Integer.toString(i);
+        int convertInt = Integer.parseInt(s1);
+
+
+        long l = 19;
+        String s2 = Long.toString(l);
+        long convertLong = Long.parseLong(s2);
+		
+		把基本类型转换成字符串更推荐用String.valueOf
+		
+		int i2 = 11;
+        long l2 = 111L;
+        boolean b = true;
+
+        String s3 = String.valueOf(i2);
+        String s4 = String.valueOf(l2);
+        String s5 = String.valueOf(b);
+	
+	
+	15、枚举类型
+	    enum
+		枚举变量的相等比较用==就可以
+		
+		Gender d1;
+        d1=Gender.Femela;
+
+        System.out.println(d1);
+        System.out.println(Gender.Femela);
+
+
+        也可以在类中定义枚举
+        Person p = new Person();
+        p.setGender(Gender.Mela);
+        System.out.println(p.getGender());
+
+    17、数组:
+	    一维数组：
+		   
+		
+		数组的输出
+		
+		
+	18、JDK、JRE
+	   JDK Java Development Kit         
+	   JRE Java runtime Environment     java运行环境
+	   
+	   
+	   JDK： JRE+ IDEA
+	   
+	   JVM  负责java程序的运行
+	   
+	   .java文件编译为.class文件  
+	   
+	   JDK= JRE+IDEA
+	   JRE= JVM + java 基础类库
+	   
+	19、Xml基础
+	 主要是一些配置信息
+	 语法：
+	    <标签名 属性="属性值">文本内容</标签名>
+    
+
+    20、JavaDOC  文档说明
+        一种特殊的注释
+
+        生成JavaDOC
+
+       这个是生成文档 供给被人使用
+
+        记下这个，后期再用到的时候在百度怎么用
+
+        根据JavaDOC机制，使用Eclipes  帮我们生成一个html文档
+		该文档主要是对我们指定的类的一个解释说明
+		
+		
+		
+	21、如果阅读JDK 文档
+	    这些类分为两大类：JDK内置类和第三方类
+		多个相关功能的类集合也称作“类库”
+		
+	
+	
+	22、怎么导包？？
+	    
+		
+	23、反编译器：
+	    编译：  .Java 源文件 ->.Class文件
+		反编译：.Class文件   ->.Java源文件
+		工具：JD-GUI
+		
+		
+		
+	24、关于Jar 
+	    Jar 架包
+		
+		jar包就是java编译生成的.Class文件 别人拿到之后就可以直接使用
+		
+		idea怎么倒出架包
+		z
+		
+		
+		如何把一个文件打包生成架包给别人使用？
+		如何在项目中导入第三方的架包
+		
+		
+	25、maven
+	   1、为什么要使用Maven
+	      对我们的项目进行依赖管理的
+		
+		
+		为什么我们要使用Maven
+		  从仓库中直接下载我们需要的架包
+		  
+		 
+		 Java工程对应jar包，Web工程对应war包
+		
+		
+		2、Maven简介 
+		   
+		
+		3、什么是项目构建
+		    Maven仓库用来存储，检索maven项目，方便其他maven项目引用
+			
+			中央仓库：很多公司开源的
+		  		  	  
+		
+		
+		4、在我们的IDEA中继承Maven
+		
+		
+
+        5、Maven项目的创建
+		
+		
+		6、Maven项目结构
+		   
+		   
+		
+		7、Maven引入第三方库  
+		   1、添加第三方jar包 ， 类似于nuget的一个类库
+		   2、依赖的生命周期：
+				1、compile: 编译、测试、运行时都会依赖  是默认值
+				2、test:    编译、测试时依赖，运行时不依赖  入Junit
+				3、provided：编译、测试时依赖，运行时不依赖，由运行环境提供 ，入servlet-api由tomcat提供
+				4、runtime  编译时不依赖，测试，运行时依赖,入mysql-connection -java -5.1.37			
+	    
+		
+		
+		
+	
+		
+		
+	25、常用的快捷键：
+	    1、代码助手: Alt+ /
+		2、快速修复
+		3、快速删除
+		
+	
+    26、普通java项目之间的引用
+        我们在我们自己的项目之间引用 
+        
+		Build Path  ->java Builde Path  package 选择需要引入的项目
+		
+		
+		Maven 项目之间的引用
+		  直接把 pom.xml中的
+			<groupId>com.rupeng</groupId>
+			<artifactId>bbb</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			
+		  放入我们需要引入项目的pom.xml中 
+		    <dependencies>
+			   <dependency>
+				    <groupId>com.rupeng</groupId>
+					<artifactId>bbb</artifactId>
+					<version>0.0.1-SNAPSHOT</version>
+			   </dependency> 
+            </dependencies>
+		
+	27\	
+		
+		
+		
+	26、架包：
+	    0、什么是架包：
+		   jar包其实就java编译生成的.class组成的特殊的压缩包，别人拿到jar之后就可以直接使用了
+	    1、导出架包
+		    Export  有选择是否带上源码的操作
+		
+		2、导入架包
+		   我们导出的架包直接可以再别的项目中引用，
+		   
+		  1）、 快速的导入：把jar直接复制到项目下，在操作
+		        Build Path  ->Add builde path 
+		  2）、Export 操作
+		   
+ 
+
+
+
+    27、包装类
+	    1、八种基本数据类型都有包装类
+		  byte    Byte
+		  short   Short 
+          int     Integer 
+          long    Long 
+          float   Float 
+          double  Double 
+          char    Character 
+          boolean Boolean
+
+        2、装箱拆箱
+           Integer i1 = 123;  //装箱    int -> Integer	
+           int 	  i2 = i1;    //拆箱    Integer -> int 
+		   
+		   Integer  可以为null
+		   
+		   和C# 中的 int?  可空数据类型的用法类型，就是可以为空
+		   
+		3、Integer的一些方法
+		
+		
+	28、时间类
+	    1、时间格式化为String类型
+			String dateStr4 = SimpleDateFormat.getTimeInstance().format(new Date()) ;//16:22:51
+			String dateStr3 = SimpleDateFormat.getDateInstance().format(new Date()) ; // 2019-10-27
+			String dateStr2  = SimpleDateFormat.getDateTimeInstance().format(new Date());  //2019-10-27 16:21:22
+			String dateStr = new SimpleDateFormat("yyyy年MM月dd日 HH小时mm分钟ss秒").format(new Date());//2019年10月27日 16小时23分钟23秒
+			
+		2、String 转 Date类型 
+		Date d1 = SimpleDateFormat.getDateInstance().parse("2018-08-08");  //Wed Aug 08 00:00:00 CST 2018
+		Date d2 = new SimpleDateFormat("yyyy年MM月dd日 HH小时 mm分钟 ss秒").parse("2008年08月08日 08小时 08分钟 08秒");//Fri Aug 08 08:08:08 CST 2008
+    
+	
+	29、Math  类 
+	     String str1 = Integer.toHexString(365);// 整数转换为 16 进制字符串；  16d
+		 String str2 = Integer.toBinaryString(365);//整数转换为2进制字符串  101101101
+		 int i1 = Integer.parseInt("365",16);  //十进制字符串转换为int  869
+		 int i2 = Integer.parseInt("110", 2);//radix进制字符串转换为int  6
+		 
+		 
+	30、异常
+	    1、异常类：
+		   异常的类根类为java.lang.Throwable ，有两个直接子类 ： java.lang.Error、 java.lang.Exception。
+		   
+		   
+		   
+		2、Throwable中的方法 
+		   getMessage():返回的是异常的消息字符串。
+		   printStackTrace():把错误信息显示在控制台。显示的是异常堆栈，
+		   
+		3、
+		
+	
+	
+	
+	31、文件的读写：
+	    1、File          创建文件
+		    File file  = new File("");
+			file.mkdir();
+			file.mkdirs();
+			file.delete();
+			file.exists();
+			file.canReade();
+			file.canWrite();
+			
+		
+		2、InputStream   文件读取  OutputStream  文件写入  
+		    这两个都是抽象类，一般用他们的子类 FileInputStream  FileOutputStream    
+			
+			//文件写入
+		    OutputStream outputStream = null;
+			  try{
+				  outputStream = new FileOutputStream(filePath);
+				   byte[] bytes = "aas你好男男女女".getBytes();
+				   outputStream.write(bytes);
+			  }catch (IOException e){
+				  System.out.println(e.getMessage());
+				  e.printStackTrace();
+			  }finally {
+				  try{
+					  if (outputStream!=null){
+						  outputStream.close();
+					  }
+				  }catch (IOException e){
+					  e.printStackTrace();
+				  }
+			  }
+		
+		    //文件读取
+			InputStream inputStream = null;
+			try {
+				inputStream = new FileInputStream(filePath);
+				byte[] bytes = new byte[1000];
+				int length ;
+				while ((length=inputStream.read(bytes))>0){
+					System.out.println("读取了"+length+"个字节"+ Arrays.toString(bytes));
+				}
+
+			}catch (IOException e){
+				e.printStackTrace();
+			}finally {
+				try{
+				  if(inputStream!=null){
+					  inputStream.close();
+				  }
+				}catch (IOException e){
+					e.printStackTrace();
+				}
+			}		    
+			//文件的读取都是逐字节流的形式读写
+			//需要考虑文件的编码。中文字符等问题
+		   
+		
+		3、Reader  Writer 是用来读写字符流(character stream)的类 会自动处理字文本文件问题 
+		     他两是抽象类，最常用的是
+			 InputStreamReader   \  OutputStreamReader 
+			 
+			 InputStreamReader  \ OutputStreamReader    逐字符读写的
+		
+		    
+			 BufferedReader   \ BufferedWriter   
+			  不是一个字符一个字符的读写，而是用缓冲区，效率更高
+			  
+			  
+			//文件写入
+			public  static  void bufferWriter() throws  IOException{
+				try(FileOutputStream fos = new FileOutputStream("D:/1.txt");
+					OutputStreamWriter osWriter = new OutputStreamWriter(fos,"UTF-8");
+					BufferedWriter bufferedWriter =new BufferedWriter(osWriter);){
+
+					bufferedWriter.write("hello");
+					bufferedWriter.newLine();
+					bufferedWriter.write("大家好");
+				}
+			}
+			
+			
+			 //文件读取
+			public  static  void bufferReader() throws   IOException{
+				 try(FileInputStream fis = new FileInputStream("D:/1.txt");
+					InputStreamReader osReader = new InputStreamReader(fis,"UTF-8");
+					BufferedReader bufferedReader = new BufferedReader(osReader)){
+					 String line ;
+					 while ((line=bufferedReader.readLine())!=null){
+						 System.out.println(line);
+					 }
+				 }
+			}
+				
+			
+		
+		4、  Commons-IO
+		   封装的IO读取操作
+		   
+		   
+		   
+		   
+		5、读取配置 Properties
+		
+		
+		
+		总结： 
+		  1、File  
+		  2、OutputStream  \  InputStream  抽象类  
+		      FileOutputStream  \ FileInputStream  字节流的形式逐字节读写
+			  
+		  3、Reader      \    Writer    抽象类 
+		     InputStreamReader   OutputStreamReader   字符流的形式逐字符读写
+			 BufferedReader      BufferedWriter        字符流的形式缓存区，效率更高
+			 
+			 
+		    
+	33、集合：
+	   1、ArrayList  
+	     泛型类中不能是基本数据类型(int) ，必须是Interger这样的包装类
+		 
+		 list.get(i)  获取值
+		 
+	   2、Map   -- Dictionary
+	     Map 可以放键值对， Map 也是一个接口，常用的子类是 HashMap。
+		 
+		 key不可以重复
+		 
+		HashMap<Integer ,String > map = new HashMap<Integer ,String>();
+        map.put(1,"a");
+        map.put(2,"b");
+        map.put(3,"c");
+        String str = map.get(3);// 根据键获取值
+        System.out.println(map.containsKey(2)); //判断是否存在这个def这个键
+        System.out.println(map.containsValue("c")); //判断是否存在这个值
+		
+		
+    总结： 需要巩固的： 
+	    1、类型转化
+		2、时间类型、基本类型、字符串之间的转换
+		3、异常的处理
+		4、文件的读写
+		5、集合：
+		6、
+		
+	
+
+六、JDBC 
+    1、	JDBC查询的顺序
+	    加载驱动
+		创建连接
+		执行sql
+		关闭连接
+    2、PreparedStatement 和 Statement 
+	   PreparedStatement 是从Statement扩展而来 
+	   相较于Statement的优点
+	     1）、没有SQL注入的问题
+		 2）、Statement会使数据库频繁编译SQL,可能造成数据库缓冲区溢出
+		 3）、数据库和驱动可以对PreperedStatement进行优化，只有在相关联的数据库连接没有关闭的情况下有效
+
+
+    3、批处理： 玩一下
+	   PreparedStatement.addBatch()
+	   PreparedStatement.executeBatch()
+	
+七、JavaWeb基础
+    1、 短连接：客户端只有向服务器发送请求的时候才建立连接，服务器请求返回之后连接断开，每次请求都要建立连接，所以效率比较高
+        长连接：客户端和服务器端长期保持连接，效率高，不用每次请求都建立连接，一台服务器能够承受同时连接的客户端有限，因此对服务去压力比较大
+		
+		
+		
+	2、配置Tomcat服务器
+	    idea中配置Tomcat服务器
+		 
+		 
+	
+    3、安装Tern
+       写html代码时完成自动提示功能
+
+    4、Servlet
+        在JavaWeb 中 Servlet是用来"处理客户端请求,生成响应返回给客户端” 的基本单元，他也是一个类。
+ 	    
+		Servlet 是唯一的，不同的Servlet处理请求是不一样的
+		
+		
+	5、表单提交  
+	   1）、Servlet获取请求数据
+	      
+		  
+		  
+		//HttpServletRequest 是怎么获取到数据的？
+		//HttpServletRequest的路由是什么样的呢？
+	  
+		
+	
+	6、Servlet 工作原理：
+	   
+	   Servlet 的三大生命周期：
+	     void init(ServletConfg config)  初始化，Servlet创建的时候
+		 void service(ServletRequest req , ServletResponse rep)
+		 vid destroy()
+	    
+	   1、请求发出，服务器接收到请求,调用生命周期方法void service
+	   2、将ServletRequest转换为HttpServletRequest 将ServletReponse 转换为 HttpServletResponse
+	   3、req.getMethod();获取请求方式，假如是Get请求，则调用doGet  ， 假如是 Post请求，则调用doPost`	 
+	   
+	   
+	   Servlet 的路由机制是怎么实现的？
+	   
+	   
+	7、相对路径和绝对路径
+	    
+		
+		
+    8、主要类：
+	   1、HttpServletRequest  
+			//getParameter
+			String name = request.getParameter("name");
+			
+			//getContextPath获取项目部署的ContextPath()
+			String contentPath = request.getContextPath();
+			
+			//getRemoteAddr获得的是访问者的IP地址
+			String remoteAddr= request.getRemoteAddr();
+			
+			
+			//getRequestURI获得包含ContextPath的路径
+			String requestUrl = request.getRequestURI();  
+	   
+	   
+	   
+	   2、HttpServletResponse
+	      
+		
+		
+		
+八、web开发 
+    1、   		
+		
+		
+	2、使用idea做断点调试
+	  F5 跳入方法
+	  F6 向下逐行执行
+	  F7 跳出方法
+	  F8 直接跳到下一个断点，如果没有则正常执行 
+	  
+	  
+	3、缓存和索引的清理
+	   1）、为什么会出现缓存和索引？
+	        清理掉
+	   2）、学会清理缓存：
+	        File->Invalidate Caches/Restart -> Invalidate and Restart
+	   3）、缓存和索引存在哪？
+	        C:\Users\Administrator\.IntelliJIdea2018.3
+	   
+	   4）、可以对Local history 进行备份 ，清理的时候可以提前备份一下
+		
+	4、关闭更新：
+       Settings - > System Settings -> Updates - >	去掉Automatically check update  取消自动更新
+		
+		
+	5、Maven项目
+       1、
+
+
+    6、单元测试
+	   编写测试用例： 程序期望所有结果跟我们程序运行的结果是否一样
+	   
+	
+	
+	7、注解拦截 做权限校验
+	   
+	
+	
+	
+	8、学习sevlet  jsp 待定
+
+九、Java集合：
+    1、重点！
+       1、ArrayList  LinkedList 
+       2、HashMap 
+       3、泛型的使用 
+       4、自定义泛型类  自己实现ArrayList  LinkedList
+       5、ArrayList LinkedList HashMap 重点！	   
+		
+	
+    2、集合？
+	   容器，用来存放不同数据类型的数据方式
+	   
+	3、MyArrayList和MyLinked区别：
+	    1）、末尾插入，MyArrayList 直接定位效率高，MyLinkedList需要先从头遍历到最后在添加，
+	        效率低
+	    
+	    2）、查找：MyArrayList直接定位效率高，MyLinkedList需要从头遍历，效率低 
+		
+		3）、中间插入、删除：MyArrayList 需要移动后面元素的"格子","效率低" 
+		     MyLinkedList 只要"重新牵手" 就可以，效率高 
+			 
+	4、集合的三种遍历方式;
+        1、for (int i =0;i<list.size();i++)
+           最基础的遍历方式：for循环，指定下标长度，使用List集合的size()方法，进行for循环遍历
+           但是需要注意的是，在删除集合的元素时，会出现删不掉的问题 (顺序删不掉)，倒序删可以删干净
+
+
+        2、for(Integer i : list)  
+		   较为简洁的删除方式，使用foreach遍历list，但不能对某一个元素进行操作(这种方法在遍历数组和Map集合的时候同样使用)
+
+        3、Iterator<Integer> iter = list.iterator();
+          使用迭代器Iterator遍历，直接根据list集合的自动遍历
+          迭代器删除，可以删干净
+    5、ArrayList  LinkedList 
+	   数据结构区别：https://blog.csdn.net/bytearr/article/details/96623801
+	   
+	   
+	6、HashCode HashMap 
+	   1）、HashMap 
+	       1）、用来保存多组"键值对"类型数据的集合
+			   内部使用哈希算法进行数据的存储，查询，
+			   键不能重复，值可以重复
+			   特点：数据的存储略慢，但是查询速度快
+		   
+		   2）、主要成员：
+		       int size() 键值对条数
+			 V get(Object key) 根据键获得值。 如果不存在这样的键则返回null
+			 boolean containsKey(Object key) 判断键是否存在
+			 put(K key, V value) 键值对放入map。      如果已经key已经存在则用新的键值对替换旧的键值对，也就是“键不能重
+			复”
+			 remove(Object key)根据键移除键值对
+			 void clear() 清空
+			 Set keySet() 所有的key，返回值是后面学的Set类型。
+	
+    7、泛型：
+	    1、Java SE 1.5的特性
+        2、泛型不能使用int、double、boolean等原始类型，
+           需要使用Integer、Double、Boolean等包装类型  
+            ArrayList<String>
+        3、Java数组支持协变 ：父类相关的变量指向子类相关的对象
+           泛型不支持协变。  ArrayList<Object> list1 = new ArrayList<String>(); 错误
+        
+        4、泛型在编译的时候才会根据响应的类型编译成具体的类型
+
+
+    8、结合总结：
+        1、List 长度可变的数据容器
+          ArrayList 内部用数组实现
+          LinkedList内部用链表(手拉手)实现
+       	2、HashMap: 保存键值对，可以根据键查询值，内部采用哈希算法确定数据的存储位置，查询效率高
+        3、Stack(栈) 先入后出  push放入数据、pop取出数据
+        4、Queue(队列)先入先出 offer入队，poll出队
+        5、Set:存储不重复的元素
+		6、Vector\ Hashtable  废弃，线程安全的
+
+
+	9、HashCode
+       是什么东西？
+        Hashcode方法是Object中定义的一个用来返回自己应该往哪个位置放的一个hash值，这个方法可以被子类override。
+        尽量避免两个不同的对象hashCode重复，但是存在两个hashCode重复的
+		
+
+
+		
+			
+	
+十、类型转换：
+    1、强类型转换
+	2、String  int Object 之间的类型转换
+	3、
+	
+	
+	
+十一、反射：
+    1、目的：动态创建对象，动态赋值，动态调用方
+	
+	2、获取类信息对象Class方法
+	    1）、从对象获取
+			 AdminUser adminUser = new AdminUser();
+			 Class clz = adminUser.getClass();
+
+
+        2）、从类名获取
+             Class clz2 = AdminUser.class;
+
+        3）、从全类名(包名+类名)获取
+             Class clz3 = Class.forName("com.rupeng.AdminUser");
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	        
+      
