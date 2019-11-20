@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6ffe7f1-86c7-4839-8250-7752921f6fba" name="Default Changelist" comment="">
+    <list default="true" id="b6ffe7f1-86c7-4839-8250-7752921f6fba" name="Default Changelist" comment="[add]test">
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavenDemo1/target/" />
@@ -64,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="707" column="17" lean-forward="true" selection-start-line="707" selection-start-column="10" selection-end-line="707" selection-end-column="17" />
+            <state relative-caret-position="921">
+              <caret line="719" column="37" selection-start-line="719" selection-start-column="37" selection-end-line="719" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -91,8 +99,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -176,6 +184,7 @@
         <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java" />
         <option value="$PROJECT_DIR$/Java.txt" />
         <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java" />
       </list>
     </option>
   </component>
@@ -301,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574164902496" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574211687502" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/Git/sto-shb" />
@@ -436,7 +445,7 @@
       <workItem from="1573466416685" duration="4540000" />
       <workItem from="1573539427830" duration="54252000" />
       <workItem from="1574038807727" duration="12160000" />
-      <workItem from="1574161834321" duration="2636000" />
+      <workItem from="1574161834321" duration="4031000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合代码测试">
       <created>1573541111544</created>
@@ -515,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574079636162</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[add]test">
+      <created>1574164929797</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574164929797</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -527,7 +543,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76821000" />
+    <option name="totallyTimeSpent" value="78216000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -657,7 +673,8 @@
     <MESSAGE value="Admin User Test" />
     <MESSAGE value="[add]调试通过AdminUserDao" />
     <MESSAGE value="[add]代码调试" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]代码调试" />
+    <MESSAGE value="[add]test" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -688,13 +705,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Project.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/logger/Test.java" />
     <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/Test.java" />
     <entry file="file://$PROJECT_DIR$/mavenDemo1/pom.xml">
@@ -1041,8 +1051,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="707" column="17" lean-forward="true" selection-start-line="707" selection-start-column="10" selection-end-line="707" selection-end-column="17" />
+        <state relative-caret-position="921">
+          <caret line="719" column="37" selection-start-line="719" selection-start-column="37" selection-end-line="719" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
