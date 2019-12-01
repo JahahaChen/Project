@@ -2,8 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6ffe7f1-86c7-4839-8250-7752921f6fba" name="Default Changelist" comment="[add]test">
-      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/maven_admin_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/maven_admin_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/maven_front_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/maven_front_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashMapCast1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/IterableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/JianToZhuanFanTi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListCast1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListCast2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo2/src/main/java/com.rupeng/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo2/src/main/java/com.rupeng/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/mavenDemo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_admin/maven_admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_dao/maven_dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_front/maven_front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_front/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_pojo/maven_pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/Answers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_service/maven_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/maven_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/myBatisDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/AnswersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/QuestionsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/Answers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/AnswersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/QuestionsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo/src/test/java/com/rupeng/test/MyBatiscTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo2/myBatisDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo2/src/main/java/com/rupeng/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo2/src/main/java/com/rupeng/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo2/src/main/resources/com.rupeng.mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo2/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo3/myBatisDemo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo3/src/main/resources/com.rupeng.mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myBatisDemo3/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/springDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/UserServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMyBatisDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMyBatisDemo/springMyBatisDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Java.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/target/classes/META-INF/mavenDemo1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/target/classes/com/rupeng/HashCodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/target/classes/com/rupeng/HashCodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo1/target/classes/com/rupeng/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo1/target/classes/com/rupeng/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenDemo2/mavenDemo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mavenDemo2/mavenDemo2.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavenDemo1/target/" />
@@ -14,6 +125,18 @@
     <ignored path="$PROJECT_DIR$/blue_parent/blue_front/target/" />
     <ignored path="$PROJECT_DIR$/blue_parent/blue_admin/target/" />
     <ignored path="$PROJECT_DIR$/mavenDemo2/target/" />
+    <ignored path="$PROJECT_DIR$/mavenDemo3/target/" />
+    <ignored path="$PROJECT_DIR$/springDemo/target/" />
+    <ignored path="$PROJECT_DIR$/myBatisDemo/target/" />
+    <ignored path="$PROJECT_DIR$/myBatisDemo2/target/" />
+    <ignored path="$PROJECT_DIR$/myBatisDemo3/target/" />
+    <ignored path="$PROJECT_DIR$/springMyBatisDemo/target/" />
+    <ignored path="$PROJECT_DIR$/maven_parent/target/" />
+    <ignored path="$PROJECT_DIR$/maven_parent/maven_dao/target/" />
+    <ignored path="$PROJECT_DIR$/maven_parent/maven_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/maven_parent/maven_service/target/" />
+    <ignored path="$PROJECT_DIR$/maven_parent/maven_admin/target/" />
+    <ignored path="$PROJECT_DIR$/maven_parent/maven_front/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,60 +159,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="42" selection-start-line="42" selection-end-line="52" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="1470" column="36" lean-forward="true" selection-start-line="1470" selection-start-column="16" selection-end-line="1470" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="921">
-              <caret line="719" column="37" selection-start-line="719" selection-start-column="37" selection-end-line="719" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="252">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
-              <folding>
-                <element signature="e#1520#1521#0" expanded="true" />
-                <element signature="e#1547#1548#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="546">
+              <caret line="45" column="21" selection-start-line="41" selection-start-column="7" selection-end-line="45" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/AnswersMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/QuestionsMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -100,6 +204,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -123,6 +230,19 @@
       <find>newdataList</find>
       <find>hashCode</find>
       <find>hash</find>
+      <find>Iterator</find>
+      <find>clz3</find>
+      <find>clzPerson</find>
+      <find>objInvoke</find>
+      <find>transactionManager</find>
+      <find>query_cache_size</find>
+      <find>userMapper</find>
+      <find>user</find>
+      <find>insert</find>
+      <find>answersList</find>
+      <find>questions</find>
+      <find>select2</find>
+      <find>select</find>
     </findStrings>
     <replaceStrings>
       <replace>DB_PSSSWORD</replace>
@@ -143,48 +263,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/logger/Test.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/pom.xml" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/LogTest.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_admin/pom.xml" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_front/pom.xml" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_service/pom.xml" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/AdminUser.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Comments.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/News.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/CommentUser.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Page.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Pics.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Role.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Photo.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Permission.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/pojo/AdminUser.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/User.java" />
-        <option value="$PROJECT_DIR$/blue_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/resources/config.properties" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/pom.xml" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyLinkedList.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyArrayList.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListTest.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListCast2.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashMapCast1.java" />
+        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/JianToZhuanFanTi.java" />
         <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Person.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_front/Test.java" />
         <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java" />
-        <option value="$PROJECT_DIR$/mavenDemo2/pom.xml" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/TestServlet.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTestTest.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3Test.java" />
-        <option value="$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserDaoTest.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest1.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest3.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/Chinese.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest6.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest7.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest2.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest4.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/Person.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest5.java" />
+        <option value="$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheCase1.java" />
+        <option value="$PROJECT_DIR$/springDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/UserService.java" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/Test.java" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/Test1.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/User.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo2/src/main/java/com/rupeng/pojo/User.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo2/src/main/java/com/rupeng/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo2/src/main/resources/com.rupeng.mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo2/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/pojo/User.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/Java.txt" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java" />
-        <option value="$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/AnswersMapper.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/Answers.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/AnswersMapper.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/QuestionsMapper.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/Questions.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/QuestionsMapper.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/test/java/com/rupeng/test/MyBatiscTest.java" />
+        <option value="$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/springMyBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenDemo2/src/main/java/com.rupeng/Test.java" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/UserServiceFactory.java" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/beans.xml" />
+        <option value="$PROJECT_DIR$/maven_parent/maven_front/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/Answers.java" />
+        <option value="$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/Questions.java" />
+        <option value="$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/User.java" />
       </list>
     </option>
   </component>
@@ -233,25 +362,34 @@
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenDemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenDemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenDemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenDemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -259,7 +397,38 @@
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenDemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_pojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -268,37 +437,95 @@
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenDemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="maven_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="rupeng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rupeng" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rupeng" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="myBatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,32 +537,32 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574211687502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575176329026" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="D:/Git/sto-shb" />
+    <property name="last_opened_file_path" value="D:/Git/RBAC" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.rupeng.test" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Personal\JavaDoc\Project\blue_parent\blue_front" />
-      <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Personal\JavaDoc\Project\blue_parent\blue_dao\src\main\java\com\rupeng\utils" />
       <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\resources" />
       <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\Resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Personal\JavaDoc\Project\blue_parent\blue_front" />
+      <recent name="D:\Personal\JavaDoc\Project\mavenDemo1\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -350,61 +577,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashCodeTest">
-    <configuration name="AdminUserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.AdminUserTest" />
-      <module name="blue_dao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rupeng.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rupeng.HashCodeTest" />
-      <module name="mavenDemo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rupeng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rupeng.ListTest" />
-      <module name="mavenDemo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rupeng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rupeng.Test" />
-      <module name="mavenDemo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rupeng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo3Test.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blue_dao" />
+  <component name="RunManager" selected="JUnit.Test1.test1">
+    <configuration name="MyBatiscTest.testCache1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rupeng.test.*" />
@@ -412,8 +587,72 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.rupeng.test" />
-      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.Demo3Test" />
-      <option name="METHOD_NAME" value="add" />
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.MyBatiscTest" />
+      <option name="METHOD_NAME" value="testCache1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatiscTest.testPageUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rupeng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.MyBatiscTest" />
+      <option name="METHOD_NAME" value="testPageUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatiscTest.testSelectUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rupeng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.MyBatiscTest" />
+      <option name="METHOD_NAME" value="testSelectUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatiscTest.testselectQuestionsById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rupeng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.test.MyBatiscTest" />
+      <option name="METHOD_NAME" value="testselectQuestionsById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rupeng.container.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rupeng.container" />
+      <option name="MAIN_CLASS_NAME" value="com.rupeng.container.Test1" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -421,11 +660,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashCodeTest" />
-        <item itemvalue="JUnit.Demo3Test.add" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.AdminUserTest" />
+        <item itemvalue="JUnit.Test1.test1" />
+        <item itemvalue="JUnit.MyBatiscTest.testCache1" />
+        <item itemvalue="JUnit.MyBatiscTest.testPageUser" />
+        <item itemvalue="JUnit.MyBatiscTest.testSelectUser" />
+        <item itemvalue="JUnit.MyBatiscTest.testselectQuestionsById" />
       </list>
     </recent_temporary>
   </component>
@@ -446,6 +685,14 @@
       <workItem from="1573539427830" duration="54252000" />
       <workItem from="1574038807727" duration="12160000" />
       <workItem from="1574161834321" duration="4031000" />
+      <workItem from="1574247070832" duration="5019000" />
+      <workItem from="1574298724200" duration="567000" />
+      <workItem from="1574330660208" duration="3034000" />
+      <workItem from="1574472298477" duration="34094000" />
+      <workItem from="1574682324915" duration="2243000" />
+      <workItem from="1574766649842" duration="5378000" />
+      <workItem from="1574850530860" duration="9341000" />
+      <workItem from="1575078978112" duration="19287000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合代码测试">
       <created>1573541111544</created>
@@ -531,19 +778,50 @@
       <option name="project" value="LOCAL" />
       <updated>1574164929797</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="[add]test">
+      <created>1574247196545</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574247196545</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Demo3Test_add - 2019.11.18 at 19h 50m 25s.xml">
-      <configuration name="Demo3Test.add" configurationId="JUnit" />
+    <history-entry file="MyBatiscTest_testSelectUser - 2019.11.30 at 16h 20m 47s.xml">
+      <configuration name="MyBatiscTest.testSelectUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo3Test_add - 2019.11.18 at 19h 52m 48s.xml">
-      <configuration name="Demo3Test.add" configurationId="JUnit" />
+    <history-entry file="MyBatiscTest_testSelectUser - 2019.11.30 at 16h 20m 59s.xml">
+      <configuration name="MyBatiscTest.testSelectUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testSelectUser - 2019.11.30 at 16h 22m 07s.xml">
+      <configuration name="MyBatiscTest.testSelectUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testSelectUser - 2019.11.30 at 16h 25m 08s.xml">
+      <configuration name="MyBatiscTest.testSelectUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testSelectUser - 2019.11.30 at 16h 25m 27s.xml">
+      <configuration name="MyBatiscTest.testSelectUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testPageUser - 2019.11.30 at 16h 49m 41s.xml">
+      <configuration name="MyBatiscTest.testPageUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testPageUser - 2019.11.30 at 16h 52m 59s.xml">
+      <configuration name="MyBatiscTest.testPageUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testPageUser - 2019.11.30 at 16h 53m 17s.xml">
+      <configuration name="MyBatiscTest.testPageUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatiscTest_testCache1 - 2019.11.30 at 17h 13m 23s.xml">
+      <configuration name="MyBatiscTest.testCache1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test1 - 2019.12.01 at 11h 51m 16s.xml">
+      <configuration name="Test1.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78216000" />
+    <option name="totallyTimeSpent" value="157179000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -555,9 +833,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.18336888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.21908316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,18 +845,19 @@
       <window_info id="Web" order="7" sideWeight="0.50082916" side_tool="true" weight="0.18017058" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23915462" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3114572" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3548387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.32925472" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.35038933" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.21333334" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4968017" visible="true" weight="0.3448276" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4968017" weight="0.34371525" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.39933258" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.37708566" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" visible="true" weight="0.013348165" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32925472" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -590,28 +869,29 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26066098" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32925472" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32925472" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.25695217" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840087" weight="0.3548387" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50159913" side_tool="true" weight="0.3548387" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" visible="true" weight="0.32925472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.1705757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50082916" side_tool="true" weight="0.18017058" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25695217" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3548387" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.21333334" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4968017" weight="0.34371525" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.39933258" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.37708566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32925472" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -667,6 +947,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="[add]add log4j" />
     <MESSAGE value="IDEA整合代码测试" />
     <MESSAGE value="JdbcUtils complete" />
@@ -687,7 +970,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java</url>
-          <line>14</line>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -697,6 +980,14 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/rupeng/test/MyBatiscTest.java</url>
+          <line>128</line>
+          <properties class="com.rupeng.test.MyBatiscTest" method="testselectQuestionsById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -705,361 +996,403 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/logger/Test.java" />
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/Test.java" />
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheTest7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="92" selection-start-line="42" selection-start-column="8" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_front/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Comments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/CommentUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/News.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Permission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Photo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Pics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1469">
-          <caret line="676" column="23" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/config.properties" />
-    <entry file="jar://D:/maven/my_maven_local_repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/AbandonedConnectionCleanupThread.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/my_maven_local_repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="26" column="21" selection-start-line="21" selection-start-column="6" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/CommonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="486" column="42" selection-start-line="486" selection-start-column="42" selection-end-line="486" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/LogTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="241">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="352" column="19" selection-start-line="352" selection-start-column="13" selection-end-line="352" selection-end-column="19" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/mavenDemo3/src/main/java/com/rupeng/FanSheCase1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="188" column="7" lean-forward="true" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Person.java" />
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_pojo/src/main/java/com/rupeng/AdminUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="88" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
-          <folding>
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1042#1043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_front/Test.java" />
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        <state relative-caret-position="251">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo2/pom.xml">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo2/myBatisDemo2.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/TestServlet.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/myBatisDemo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/myBatisDemo2/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="547">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/Test.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo2/src/main/java/com/rupeng/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTestTest.java" />
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/dao/AdminUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        <state relative-caret-position="294">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo2/src/main/resources/com.rupeng.mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo2/src/main/resources/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/main/java/com/rupeng/utils/JdbcUtils.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/pojo/User.xml" />
+    <entry file="file://$PROJECT_DIR$/myBatisDemo2/src/main/java/com/rupeng/pojo/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="38" />
+        <state relative-caret-position="252">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/AdminUserTest.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/pojo/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3003">
-          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        <state relative-caret-position="294">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo3/src/main/java/com.rupeng/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo3/src/main/resources/com.rupeng.mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo3/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo3/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="84">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blue_parent/blue_dao/src/test/java/com/rupeng/test/Demo3Test.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/AdminUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
-          <folding>
-            <element signature="e#1520#1521#0" expanded="true" />
-            <element signature="e#1547#1548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-537">
-          <caret line="136" column="6" selection-start-line="136" selection-start-column="6" selection-end-line="136" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="1470" column="36" lean-forward="true" selection-start-line="1470" selection-start-column="16" selection-end-line="1470" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/HashCodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="42" selection-start-line="42" selection-end-line="52" selection-end-column="33" />
+        <state relative-caret-position="105">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="921">
-          <caret line="719" column="37" selection-start-line="719" selection-start-column="37" selection-end-line="719" selection-end-column="37" />
+        <state relative-caret-position="17766">
+          <caret line="846" selection-start-line="846" selection-end-line="846" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mavenDemo1/src/main/java/com/rupeng/MyGenericArrayList.java">
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/AnswersMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="189">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/QuestionsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/test/java/com/rupeng/test/MyBatiscTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4455#4461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/resources/com/rupeng/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springMyBatisDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="104" selection-start-line="19" selection-start-column="95" selection-end-line="19" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/UserServiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/rupeng/container/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/springDemo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo2/src/main/java/com.rupeng/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_front/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo2/src/main/java/com.rupeng/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/Answers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/Questions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/blue_parent.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blue_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/Questions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_parent/maven_pojo/src/main/java/com/rupeng/Answers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="45" column="21" selection-start-line="41" selection-start-column="7" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/AnswersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/QuestionsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myBatisDemo/src/main/java/com/rupeng/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1117,11 +1450,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|mavenDemo2</last-edited>
+          <last-edited>myBatisDemo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+
+
+<configuration>
+
+    <settings>
+        <setting name="logImpl" value="LOG4J2"/>
+    </settings>
+
+    <typeAliases>
+       <typeAlias type="com.rupeng.pojo.User" alias="User"></typeAlias>
+        <package name="com.rupeng.pojo"></package>
+    </typeAliases>
+
+
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageHelper"></plugin>
+    </plugins>
+
+
+    <environments default="test">
+        <environment id="test">
+            <transactionManager type="JDBC" />
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.cj.jdbc.Driver" />
+                <property name="url" value="jdbc:mysql://localhost/mybatisDemo?characterEncoding=UTF8&amp;useSSL=false&amp;serverTimezone=UTC" />
+                <property name="username" value="root" />
+                <property name="password" value="123456" />
+            </dataSource>
+        </environment>
+    </environments>
+
+
+    <mappers>
+        <!--会加载该目录下的所有配置文件以及子目录下的都会加载-->
+        <package name="com.rupeng.mapper"></package>
+    </mappers>
+
+</configuration>

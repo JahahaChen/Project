@@ -10,7 +10,7 @@ import org.apache.logging.log4j.core.appender.routing.PurgePolicy;
  **/
 public class MyGenericArrayList<T>
 {
-    private  T [] data=new T [10];
+    private  T [] data;
     private  int currentSize=0;
 
     //add
@@ -18,10 +18,11 @@ public class MyGenericArrayList<T>
     {
         if (currentSize>data.length)
         {
-            for (int i=o;i<data.length;i++)
+            for (int i=0;i<data.length;i++)
             {
                 Object[] objects  = new Object[10];
-                T[] newT = new T[data.length+10];
+
+
             }
         }
     }

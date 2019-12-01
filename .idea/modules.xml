@@ -11,6 +11,18 @@
       <module fileurl="file://$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" filepath="$PROJECT_DIR$/blue_parent/blue_service/blue_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavenDemo1/mavenDemo1.iml" filepath="$PROJECT_DIR$/mavenDemo1/mavenDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavenDemo2/mavenDemo2.iml" filepath="$PROJECT_DIR$/mavenDemo2/mavenDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenDemo3/mavenDemo3.iml" filepath="$PROJECT_DIR$/mavenDemo3/mavenDemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_admin/maven_admin.iml" filepath="$PROJECT_DIR$/maven_parent/maven_admin/maven_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_dao/maven_dao.iml" filepath="$PROJECT_DIR$/maven_parent/maven_dao/maven_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_front/maven_front.iml" filepath="$PROJECT_DIR$/maven_parent/maven_front/maven_front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_parent.iml" filepath="$PROJECT_DIR$/maven_parent/maven_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_pojo/maven_pojo.iml" filepath="$PROJECT_DIR$/maven_parent/maven_pojo/maven_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_service/maven_service.iml" filepath="$PROJECT_DIR$/maven_parent/maven_service/maven_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatisDemo/myBatisDemo.iml" filepath="$PROJECT_DIR$/myBatisDemo/myBatisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatisDemo2/myBatisDemo2.iml" filepath="$PROJECT_DIR$/myBatisDemo2/myBatisDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatisDemo3/myBatisDemo3.iml" filepath="$PROJECT_DIR$/myBatisDemo3/myBatisDemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDemo/springDemo.iml" filepath="$PROJECT_DIR$/springDemo/springDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMyBatisDemo/springMyBatisDemo.iml" filepath="$PROJECT_DIR$/springMyBatisDemo/springMyBatisDemo.iml" />
     </modules>
   </component>
 </project>

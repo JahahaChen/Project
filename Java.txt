@@ -737,14 +737,34 @@
 		6、Vector\ Hashtable  废弃，线程安全的
 
 
+
+
 	9、HashCode
        是什么东西？
         Hashcode方法是Object中定义的一个用来返回自己应该往哪个位置放的一个hash值，这个方法可以被子类override。
         尽量避免两个不同的对象hashCode重复，但是存在两个hashCode重复的
 		
 
+    10、Set
+        List、Queue、Stack中的元素都可以重复，而Set中的重复的元素只会保留一份
+        Set的重要子类是HashSet,输出的顺序和放入的顺序无关
 
-		
+
+    11、Iterator
+
+
+
+    12、Object
+       1、Java中==永远都是比较是否是同一个对象，equals方法默认也是如此，如果想要进行内容的比较，可以override equals方法
+       2、重写equals的要求，如果equals为true，则hashCode必须一样，否则在使用集合类的时候会乱套
+          hashCode有重复的可能性  所有hashCode 为true， equals不一定为true
+
+
+    13、对数组操作的工具类Array
+       1、toString  返回每个数组元素组成的字符串，对于object[],它是调用每个元素的toString()然后在","拼接
+       2、sort  给数组的元素排序
+       3、
+
 			
 	
 十、类型转换：
@@ -755,8 +775,16 @@
 	
 	
 十一、反射：
-    1、目的：动态创建对象，动态赋值，动态调用方
-	
+    1、java中的类都被编译成.class二进制字节码，反射就可以在运行时获得类的信息(有哪些方法、字段、构造函数、父类是什么等等)
+       同时可以动态创建对象，动态赋值，动态调用方法
+
+
+    2、反射中的主要类：
+       类 --  Class
+       构造函数 -- Constructor
+       字段 -- Field
+       方法 -- Method
+
 	2、获取类信息对象Class方法
 	    1）、从对象获取
 			 AdminUser adminUser = new AdminUser();
@@ -768,13 +796,56 @@
 
         3）、从全类名(包名+类名)获取
              Class clz3 = Class.forName("com.rupeng.AdminUser");
+
+        java中有8中基本类型(原始类型)
+        基本数据类型和他的包装数据类型是两个对象
+
+    3、
+
+
+
+    4、
+
+
+    5、
+
+
+    6、JavaBean
+       1）、JavBean类必须是一个公共类，并将其访问属性设置为public
+       2）、JavaBean类必须有一个无参的public构造方法
+       3）、一个JavaBean类不应有公共实例变量，类变量都为private
+       4）、属性都应该通过一组存取方法来访问
 	
+十二、内省：简化JavaBean
+    1、
+
+
+
+十三、注解：
+    1、Java注解用来在代码中附加一些元信息，这些元信息可被编译器，JVM，或者我们的程序使用
+    2、一般起到说明、配置的作用
+    3、注解不会直接影响代码的实际逻辑，仅仅起到辅助性的作用；
+       如果起作用也是编译器、JVM、程序去解析的
 	
-	
-	
-	
-	
-	
+
+十四、多线程
+
+
+
+十五、Maven
+
+
+
+十六、Spring
+    1、spring 容器：是spring核心之一，用来存放、管理bean。
+
+
+
+十七、MyBatis
+    1、数据源管理： UNPOOLED、 POOLED 、 JNDI
+
+
+
 	
 	
 	

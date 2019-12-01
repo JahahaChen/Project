@@ -3,6 +3,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/blue_parent/blue_admin" />
     <file type="web" url="file://$PROJECT_DIR$/blue_parent/blue_front" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_parent/maven_admin" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_parent/maven_front" />
     <file type="web" url="file://$PROJECT_DIR$/mavenDemo2" />
   </component>
   <component name="MavenProjectsManager">
@@ -11,6 +13,13 @@
         <option value="$PROJECT_DIR$/blue_parent/pom.xml" />
         <option value="$PROJECT_DIR$/mavenDemo1/pom.xml" />
         <option value="$PROJECT_DIR$/mavenDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenDemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/springDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatisDemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/springMyBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_parent/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rupeng.mapper.UserMapper">
+
+    <cache></cache>
+    
+    <resultMap id="userResultMap" type="User">
+        <id property="id" column="ud_id"></id>
+        <result property="name" column="u_name"></result>
+        <result property="age" column="u_age"></result>
+    </resultMap>
+
+    <select id="selectAll" resultType="com.rupeng.pojo.User">
+        select * from T_Users
+    </select>
+
+
+    <select id="getUserById" resultType="com.rupeng.pojo.User">
+        select * from T_Users where id = #{userId}
+    </select>
+
+    <insert id="insert" parameterType="User">
+        insert into T_Users(name,age) values(#{name},#{age})
+    </insert>
+
+
+    <insert id="insert2" parameterType="string">
+        insert into T_Users(name) value (#{name})
+    </insert>
+
+    
+    <update id="update" parameterType="User">
+        update T_Users set name= #{name},age = #{age}
+        where id = #{id}
+    </update>
+
+
+
+
+    <delete id="delete" parameterType="long">
+        delete from T_Users
+        where Id = #{id}
+    </delete>
+    
+    
+    <sql id="columns">
+        id,name,age
+    </sql>
+    
+    
+    <select useCache="false" id="select2" parameterType="User" resultType="com.rupeng.pojo.User">
+        select
+          <include refid="columns"></include>
+        from T_Users
+        <where> 
+            <if test="id!=null">id=#{id}</if>
+            <if test="name!=null">and  name=#{name}</if>
+            <if test="age!=0">and age=#{age}</if>
+        </where>
+    </select>
+
+
+
+
+</mapper>

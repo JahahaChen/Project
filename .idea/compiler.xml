@@ -11,8 +11,19 @@
         <module name="blue_front" />
         <module name="blue_pojo" />
         <module name="blue_service" />
+        <module name="maven_admin" />
+        <module name="maven_dao" />
+        <module name="maven_front" />
+        <module name="maven_pojo" />
+        <module name="maven_service" />
         <module name="mavenDemo1" />
         <module name="mavenDemo2" />
+        <module name="mavenDemo3" />
+        <module name="myBatisDemo" />
+        <module name="myBatisDemo2" />
+        <module name="myBatisDemo3" />
+        <module name="springDemo" />
+        <module name="springMyBatisDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,8 +33,20 @@
       <module name="blue_parent" target="1.5" />
       <module name="blue_pojo" target="1.5" />
       <module name="blue_service" target="1.5" />
+      <module name="maven_admin" target="1.7" />
+      <module name="maven_dao" target="1.5" />
+      <module name="maven_front" target="1.7" />
+      <module name="maven_parent" target="1.5" />
+      <module name="maven_pojo" target="1.5" />
+      <module name="maven_service" target="1.5" />
       <module name="mavenDemo1" target="1.5" />
       <module name="mavenDemo2" target="1.7" />
+      <module name="mavenDemo3" target="1.5" />
+      <module name="myBatisDemo" target="7" />
+      <module name="myBatisDemo2" target="1.5" />
+      <module name="myBatisDemo3" target="1.5" />
+      <module name="springDemo" target="1.8" />
+      <module name="springMyBatisDemo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

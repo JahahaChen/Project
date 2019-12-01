@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.rupeng.mapper.QuestionsMapper">
+    <resultMap id="resultMap1" type="Questions">
+       <id property="id" column="q_id"></id>
+        <result column="description" property="description"></result>
+
+        <collection property="answersList" ofType="Answers">
+            <id column="a_id" property="id"></id>
+            <result property="content" column="content"></result>
+        </collection>
+    </resultMap>
+    
+    
+    
+    <select id="selectById" resultMap="resultMap1" parameterType="long">
+        select q.id as q_id ,q.description,a.id as a_id , a.content
+        from T_Questions q left join T_Answers a on q.id = a.questionId
+        where q.id =  #{id}
+    </select>
+</mapper>
